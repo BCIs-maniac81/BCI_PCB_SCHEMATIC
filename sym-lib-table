@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ca612krx7r9bb103)(type Legacy)(uri "C:/Users/Hafed-LMSE/Desktop/BCI_LMSE_ESP_PCB_project/Datasheets & Docs/ESD_Protect & LP Filter/capacitors/CA612KRX7R9BB103/ca612krx7r9bb103.lib")(options "")(descr ""))
+  (lib (name BCI_LMSE_ESP_PCB_project-rescue)(type Legacy)(uri ${KIPRJMOD}/BCI_LMSE_ESP_PCB_project-rescue.lib)(options "")(descr ""))
+)
